@@ -1,2 +1,2 @@
-# tello_drone
-Tello Drone
+# tello_drone_project
+Tello Drone Project
